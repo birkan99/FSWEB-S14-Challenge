@@ -16,7 +16,7 @@ public class Main {
 
         hamburger.itemizeHamburger();
 
-        HealthyBurger healthyBurger = new HealthyBurger("Vegan Burger", 5.67, "Sandwich");
+        HealthyBurger healthyBurger = new HealthyBurger("Vegan Burger", 9.67, "Sandwich");
 
         healthyBurger.addHamburgerAddition1("Egg", 5.43);
 
